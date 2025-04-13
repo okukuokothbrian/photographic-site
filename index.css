@@ -1,0 +1,29 @@
+.header {
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+}
+.navigation {
+    border: 1px;
+    width: 99vw;
+    background-color: white;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+.footer {
+    border: 1px;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.img {
+    width: 200px;
+    height: 120;
+}
+.images {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
