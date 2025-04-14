@@ -12,6 +12,6 @@ Technologies Used in website include, HTML and  CSS
 
 Located along Ngong Road, Nairobi.
 
-Support and contact details Contact me: 0857464746474. Feel free to reach out with questions, issues,enquiry or suggestions.
+Support and contact details Contact me: 08574647464. Feel free to reach out with questions, issues,enquiry or suggestions.
 
 License; All rights reserved. Copyright (c) 2025 Okuku Brian Okoth
