@@ -4,7 +4,7 @@ Setup/Installation Requirements Works directly in a browser.
 
 No installation or dependencies required
 
-No server setup needed
+No server setup needed to the user
 
 There are no bugs known as to the owner.
 
