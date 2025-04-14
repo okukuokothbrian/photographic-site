@@ -8,7 +8,7 @@ No server setup needed
 
 Known Bugs No known bugs.
 
-Technologies Used HTML and 
+Technologies Used in website include, HTML and  CSS
 
 Located along Ngong Road, Nairobi.
 
