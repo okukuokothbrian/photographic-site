@@ -6,7 +6,7 @@ No installation or dependencies required
 
 No server setup needed
 
-Known Bugs No known bugs.
+There are no bugs known as to the owner.
 
 Technologies Used in website include, HTML and  CSS
 
